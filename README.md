@@ -1,7 +1,5 @@
 ### Olá, eu sou o Wesley Gomes! ✌️
-<br>
-<a href="https://app.daily.dev/wesleysje"><img src="https://api.daily.dev/devcards/ce128619d8364c4690e68a270555d169.png?r=s1i" width="400" alt="Wesley Gomes Siqueira's Dev Card"/></a>
-<br>
+<a href="https://app.daily.dev/wesleysje"><img src="https://api.daily.dev/devcards/ce128619d8364c4690e68a270555d169.png?r=s1i" width="400" alt="Wesley Gomes Siqueira's Dev Card"/></a> <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-gomes-b2bb79205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley.gomes.l/)
