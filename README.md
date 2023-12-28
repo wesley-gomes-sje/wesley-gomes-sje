@@ -2,10 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-gomes-b2bb79205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley.gomes.l/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5533988546600?text=Olá%20vim%20através%20do%20o%20seu%20Github.)
-<br>
-<br>
-<a href="https://app.daily.dev/wesleysje"><img src="https://api.daily.dev/devcards/ce128619d8364c4690e68a270555d169.png?r=s1i" width="400" alt="Wesley Gomes Siqueira's Dev Card"/></a> 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5533988546600?text=Olá%20vim%20através%20do%20o%20seu%20Github.) 
 <br>
 <br>
 ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-gomes-sje&show_icons=true&theme=highcontrast)
