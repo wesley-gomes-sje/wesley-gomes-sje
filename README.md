@@ -5,7 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5533988546600?text=Olá%20vim%20através%20do%20o%20seu%20Github.) 
 <br>
 <br>
-![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-gomes-sje&show_icons=true&theme=highcontrast)
+![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-gomes-sje&show_icons=true&theme=dark)
 
 ## Tecnologias que utilizo no meu dia a dia 👨🏿‍💻
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
