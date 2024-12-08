@@ -1,4 +1,5 @@
 ### Olá, eu sou o Wesley Gomes! ✌️
+Se você puder fazer coisas boas pra outras pessoas, tem a obrigação moral de fazer essas coisas.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-gomes-b2bb79205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley.gomes.l/)
@@ -19,6 +20,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-<br>
-Se você puder fazer coisas boas pra outras pessoas, tem a obrigação moral de fazer essas coisas.
+
 
