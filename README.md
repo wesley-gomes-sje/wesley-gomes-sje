@@ -2,7 +2,6 @@
 Se você puder fazer coisas boas pra outras pessoas, tem a obrigação moral de fazer essas coisas.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-gomes-b2bb79205/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley.gomes.l/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5533988546600?text=Olá%20vim%20através%20do%20o%20seu%20Github.) 
 <br>
 ## Tecnologias que utilizo no meu dia a dia 👨🏿‍💻
