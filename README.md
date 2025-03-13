@@ -1,6 +1,6 @@
 ### Olá, eu sou o Wesley Gomes! ✌️
 Se você puder fazer coisas boas pra outras pessoas, tem a obrigação moral de fazer essas coisas. <br>
-🎈 "Ninguem inveja o ruim ninguém odeia o fraco." <br><br>
+🎈 "Ninguem inveja o ruim, ninguém odeia o fraco." <br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-gomes-b2bb79205/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5533988546600?text=Olá%20vim%20através%20do%20o%20seu%20Github.) 
 <br>
